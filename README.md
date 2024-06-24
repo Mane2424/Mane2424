@@ -1,4 +1,4 @@
-##👋 Hi there! 
+#👋 Hi there! 
 I'm Mane, a skilled and experienced Full Stack Developer passionate about crafting high-quality web applications. With a focus on client satisfaction and a commitment to delivering top-notch results, I'm here to make your projects shine.
 
 ## 🌟 Key Skills & Expertise:
