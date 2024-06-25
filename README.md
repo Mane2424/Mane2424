@@ -21,7 +21,7 @@ I'm a skilled and experienced Full Stack Developer passionate about crafting hig
 ## 🕒 Availability:
 - Full-time availability (40+ hours a week) for ongoing projects
 
-## <h2 align="center">Technologies I Work With</h2>
+## Technologies I Work With
 
 <p align="center">
   <a href="https://skillicons.dev">
