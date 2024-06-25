@@ -32,7 +32,6 @@ I'm a skilled and experienced Full Stack Developer passionate about crafting hig
     <img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white" alt="Angular">
     <img src="https://img.shields.io/badge/-Azure-blue?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
     <img src="https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white" alt="Firebase">
-    <img src="https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
     <img src="https://img.shields.io/badge/-Linux-lightgrey?style=flat-square&logo=linux&logoColor=white" alt="Linux">
     <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
