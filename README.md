@@ -3,7 +3,8 @@ I'm a skilled and experienced Full Stack Developer passionate about crafting hig
 
 ## 🌟 Key Skills & Expertise:
 - Front-end Development: React, Next.js, Vue.js, Tailwind CSS, MaterialUI
-- Back-end Development: Node.js, Nest.js, Authentication systems
+- Back-end Development: Node.js, Nest.js 
+- Authentication systems
 - API Integrations
 - SQL-based databases like MySQL
 - NoSQL databases such as MongoDB
